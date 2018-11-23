@@ -16,3 +16,11 @@
 ```
 
 # CSS
+
+Linguagem responsável por definir:
+
+- Estilos;
+- Posicionamentos;
+- e até mesmo algumas animações com os efeitos de transição
+
+Enquanto o HTML apenas estrutura nosso conteúdo, o CSS vem para deixá-lo visualmente mais apresentável, melhor posicionado.
