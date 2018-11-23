@@ -6,6 +6,11 @@ h1 {
   color: #fff;
   font-size: 40px;
   font-family: "ArialMT", Arial, Helvetica, sans-serif;
+  display: inline-block;
+}
+
+nav {
+  float: right;
 }
 
 a {
