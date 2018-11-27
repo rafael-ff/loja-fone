@@ -1,0 +1,14 @@
+.btn-store {
+  display: inline-block;
+  text-decoration: none;
+  background-color: #252c41;
+  border-style: none;
+  width: 200px;
+  height: 60px;
+  font-size: 20px;
+  line-height: 60px;
+  font-family: Arial, Helvetica, sans-serif;
+  color: #fff;
+  text-align: center;
+  margin: 0;
+}
