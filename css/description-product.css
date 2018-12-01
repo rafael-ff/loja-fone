@@ -5,7 +5,7 @@
 
 .description-product > .title {
   font-size: 25px;
-  margin-bottom: 100px;
+  margin-bottom: 50px;
 }
 .description-product > .item {
   font-size: 20px;
@@ -29,6 +29,10 @@
   font-size: 18px;
   line-height: 30px;
   margin-bottom: 30px;
+}
+
+.description-product > .text.-more {
+  margin-bottom: 0;
 }
 
 .description-product .action {
