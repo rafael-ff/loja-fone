@@ -11,6 +11,7 @@ padding-left: 60px;
   font-family: Arial, Roboto, Helvetica, sans-serif;
   float: left;
   text-transform: uppercase;
+  cursor: pointer;
 }
 
 .header-store > .navigation {
@@ -26,20 +27,18 @@ padding-left: 60px;
   margin-right: 60px;
 }
 
-.header-store .action.-search{
-  margin-right: 65px;
-  line-height: 20px;
-  width: 295px;
-  background-color: inherit;
+
+.header-store [type="search"]{
+  background-color: transparent;
   border: none;
   border-bottom:solid 1px #fff;
-  
-}
-.header-store ::placeholder,
-.header-store input[type=text]{
-   color: inherit;
+   color:inherit;
+   font-family: Arial, Roboto, Helvetica, sans-serif;
    font-size: 20px;
-   padding-left: 6px;
+   padding: 8px;
+   width: 358px;
+   margin-right: 65px;
+   
 
    }
 

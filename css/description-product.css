@@ -11,6 +11,9 @@
   font-size: 20px;
   margin-bottom: 28px;
 }
+.star {
+  margin-right: 10px;
+}
 
 .description-product > .item.-info {
   width: 200px;
